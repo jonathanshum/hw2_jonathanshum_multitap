@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Text Entry Scene.unity
+  isLoaded: 1
+  isActive: 1

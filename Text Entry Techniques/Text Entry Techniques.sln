@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B0117165-9214-6A30-08A6-21B6E677C7BD}") = "Text Entry Techniques", "Assembly-CSharp.csproj", "{2D1BA2B4-1EF4-5F98-57CD-7B12324B08FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1BA2B4-1EF4-5F98-57CD-7B12324B08FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1BA2B4-1EF4-5F98-57CD-7B12324B08FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1BA2B4-1EF4-5F98-57CD-7B12324B08FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1BA2B4-1EF4-5F98-57CD-7B12324B08FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
